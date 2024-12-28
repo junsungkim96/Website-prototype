@@ -19,7 +19,7 @@ const MainLayout = ({ children }) => (
 );
 
 const App = () => (
-  <Router>
+  <Router basename = {process.env.PUBLIC_URL}>
     <Suspense fallback={<div>Loading...</div>}>
       <Routes>
         <Route path="/" element={<MainLayout><Homepage /></MainLayout>} />
