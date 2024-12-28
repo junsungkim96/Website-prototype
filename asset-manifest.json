@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c0f890f.css",
+    "main.js": "/static/js/main.dc9a9ef1.js",
+    "static/js/787.16287102.chunk.js": "/static/js/787.16287102.chunk.js",
+    "static/media/career.jpg": "/static/media/career.0c533a8747d9817fd5bd.jpg",
+    "static/media/vaccine.jpg": "/static/media/vaccine.a01285e1b5f57ee6a135.jpg",
+    "static/media/ai_safety.jpg": "/static/media/ai_safety.ee451b7ed46a31900bdf.jpg",
+    "static/media/universe.jpg": "/static/media/universe.faef5f253f8f6d2e158a.jpg",
+    "static/media/feynman.jpg": "/static/media/feynman.2d93e48232df413d784b.jpg",
+    "static/media/quantum_biden.jpg": "/static/media/quantum_biden.90a80b5ecaa0d748ee1c.jpg",
+    "static/media/quantum_computer.jpg": "/static/media/quantum_computer.65e60f2b9d2e2ad5d9bd.jpg",
+    "static/media/arc_reactor.jpg": "/static/media/arc_reactor.c34c6b51bb2fd2eca730.jpg",
+    "static/media/material.jpg": "/static/media/material.0b7859ecd42842e4fb98.jpg",
+    "static/media/nuclear_fusion.jpg": "/static/media/nuclear_fusion.16b9fa477a4e887a364c.jpg",
+    "static/media/atom-logo.jpg": "/static/media/atom-logo.d97c621639b8cd8741b5.jpg",
+    "index.html": "/index.html",
+    "main.2c0f890f.css.map": "/static/css/main.2c0f890f.css.map",
+    "main.dc9a9ef1.js.map": "/static/js/main.dc9a9ef1.js.map",
+    "787.16287102.chunk.js.map": "/static/js/787.16287102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0f890f.css",
+    "static/js/main.dc9a9ef1.js"
+  ]
+}
